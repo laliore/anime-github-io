@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anime-github-io/build/static/css/main.2550f4ec.css",
+    "main.js": "/anime-github-io/build/static/js/main.c7ddf1d5.js",
+    "static/js/787.aaa38906.chunk.js": "/anime-github-io/build/static/js/787.aaa38906.chunk.js",
+    "index.html": "/anime-github-io/build/index.html",
+    "main.2550f4ec.css.map": "/anime-github-io/build/static/css/main.2550f4ec.css.map",
+    "main.c7ddf1d5.js.map": "/anime-github-io/build/static/js/main.c7ddf1d5.js.map",
+    "787.aaa38906.chunk.js.map": "/anime-github-io/build/static/js/787.aaa38906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2550f4ec.css",
+    "static/js/main.c7ddf1d5.js"
+  ]
+}
